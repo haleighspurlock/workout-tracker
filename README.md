@@ -10,13 +10,15 @@
 
 ## Description
 ---
-Update Description
-
-Deployed Website: 
+Deployed Website: https://hspurlock-fitness-tracker.herokuapp.com/
 
 ![workout-tracker](./assets/fitness-dashboard.png)
 
 ![workout-tracker](./assets/fitness-lastw.png)
+
+Walkthrough of Functionality
+
+![workout-tracker](./assets/Fitness-Tracker-Demo.gif)
 ## Requirements 
 ---
 ```
@@ -54,7 +56,7 @@ View the total duration of each workout from the past seven workouts on the stat
 ---
 No installation needed for this project
 
-See deployed site here: 
+See deployed site here: https://hspurlock-fitness-tracker.herokuapp.com/
 
 See repository here: https://github.com/haleighspurlock/workout-tracker
 ## Contributing
