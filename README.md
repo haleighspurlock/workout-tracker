@@ -14,8 +14,9 @@ Update Description
 
 Deployed Website: 
 
-![workout-tracker](*****Include Screenshot here******)
+![workout-tracker](./assets/fitness-dashboard.png)
 
+![workout-tracker](./assets/fitness-lastw.png)
 ## Requirements 
 ---
 ```
@@ -55,7 +56,7 @@ No installation needed for this project
 
 See deployed site here: 
 
-See repository here: https://github.com/haleighspurlock/employee-tracker
+See repository here: https://github.com/haleighspurlock/workout-tracker
 ## Contributing
 ---
 
